@@ -4,7 +4,7 @@ Stripped-down and auto-generated [Raylib](https://github.com/raysan5/raylib) bui
 
 ## Usage:
 
-1. Create a _meson.build_ file like this:
+1. Create a [meson.build](https://github.com/moonsteal/raylib-example/blob/main/meson.build) file like this:
     ``` python
     project('myproject', 'c',
       version : '1.0.0',
@@ -22,8 +22,8 @@ An example can be found [here](https://github.com/moonsteal/raylib-example)
 
 
 2. Create the [subprojects .wrap files](examples/core_basic_window/subprojects)
-    - [`subprojects/glfw.wrap`](subprojects/glfw.wrap)
-    - [`subprojects/raylib.wrap`](raylib.wrap)
+    - [`subprojects/glfw.wrap`](https://github.com/moonsteal/raylib-example/blob/main/subprojects/glfw.wrap)
+    - [`subprojects/raylib.wrap`](https://github.com/moonsteal/raylib-example/blob/main/subprojects/raylib.wrap)
 
 3. Build the project
     ``` bash
