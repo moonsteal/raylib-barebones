@@ -18,7 +18,9 @@ Stripped-down and auto-generated [Raylib](https://github.com/raysan5/raylib) bui
       dependencies: [raylib_dep]
     )
     ```
-    
+An example can be found [here](https://github.com/moonsteal/raylib-example)
+
+
 2. Create the [subprojects .wrap files](examples/core_basic_window/subprojects)
     - [`subprojects/glfw.wrap`](subprojects/glfw.wrap)
     - [`subprojects/raylib.wrap`](raylib.wrap)
