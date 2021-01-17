@@ -1,0 +1,6 @@
+option('raylib_platform',
+	type: 'combo',
+	description: 'Which platform to build for',
+	choices: ['DESKTOP', 'RPI', 'ANDROID', 'WEB'],
+	value: 'DESKTOP'
+)

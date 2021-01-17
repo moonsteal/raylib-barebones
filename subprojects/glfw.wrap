@@ -1,0 +1,4 @@
+[wrap-git]
+directory=glfw
+url=https://github.com/swarnimarun/glfw-meson.git
+revision=872a28106c572db828383ab1ab2655d3eb9c026c
