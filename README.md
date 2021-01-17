@@ -41,7 +41,7 @@ Run the following:
 ``` bash
     chmod +x get.lua
     ./get.lua
-```
+    ```
 
 ## About:
 This repo is a fork of [@RobLoach](https://github.com/RobLoach/raylib-meson)'s fantastic [raylib-meson](https://github.com/RobLoach/raylib-meson), I had to upload it as a separate repository because git freaked up and ended making .git/objects/pack over _70MB_ and that defeats the whole purpose of this fork
